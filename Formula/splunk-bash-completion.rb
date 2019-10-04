@@ -1,8 +1,8 @@
 class SplunkBashCompletion < Formula
   desc "Completion for Atom Package Manager"
   homepage "https://github.com/plambert/splunk_command_completion"
-  url "https://github.com/plambert/splunk_command_completion/archive/v1.0.2.tar.gz"
-  sha256 "4e4d5ab517978f096d0ed1b84525b124fafecd4567478db19b882de45413ce6a"
+  url "https://github.com/plambert/splunk_command_completion/archive/v1.0.3.tar.gz"
+  sha256 "e441cd3737acb9fdcede0c6c54610a89834af01be029a4518a4af97819b270f8"
 
   bottle :unneeded
 
